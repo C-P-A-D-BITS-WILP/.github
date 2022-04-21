@@ -1,2 +1,2 @@
 # .github
-repository for CPAD Assignment, MTech in SOftware Engineering, BITS WILP
+Repository for CPAD Assignment, MTech in Software Engineering, BITS WILP
