@@ -7,15 +7,15 @@ The project aims at bridging the gap of a centralized platform for organizing to
 ## Tech Stack
 - Frontend: 
     - Framework: Angular
-	  - Styling: Material
-	  - Language: Typescript, Javascript, HTML
-	  - Server: npm
-		- IDE: VS Code
+    - Styling: Material
+    - Language: Typescript, Javascript, HTML
+    - Server: npm
+    - IDE: VS Code
 - Backend: Spring / Spring Boot
     - Language: Java
-	  - Framework: Spring Boot, Spring Web, Spring Data, Hibernate
-	  - Server: Tomcat
-	  - IDE: Eclipse
+    - Framework: Spring Boot, Spring Web, Spring Data, Hibernate
+    - Server: Tomcat
+    - IDE: Eclipse
 - Database: 
     - DB: MySQL
     - IDE: MySQL WorkBench
