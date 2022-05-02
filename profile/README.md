@@ -5,13 +5,21 @@ Cricket is one of the most popular sports in the country. There are over hundred
 The project aims at bridging the gap of a centralized platform for organizing tournaments and provides enrolling and managing the local cricket tournament services along with analytical capability to gain insights and analysis on the scores and other interesting stats like points, economy, etc. This application would also provide tournament organizers analytical capability to identify the most valuable player or help in deciding the tie-breakers by calculating the Net Run Rate.
 
 ## Tech Stack
-- Frontend: Angular
+- Frontend: 
+    - Framework: Angular
+	  - Styling: Material
+	  - Language: Typescript, Javascript, HTML
+	  - Server: npm
+		- IDE: VS Code
 - Backend: Spring / Spring Boot
-- Database: MySQL
+    - Language: Java
+	  - Framework: Spring Boot, Spring Web, Spring Data, Hibernate
+	  - Server: Tomcat
+	  - IDE: Eclipse
+- Database: 
+    - DB: MySQL
+    - IDE: MySQL WorkBench
 - Security: OAuth 2.0
-- Platform: AWS
-
-
 
 <!--
 
